@@ -5,7 +5,7 @@
 - appunto cosa manca
     - PER OGNI cosa che manca dal frigo 
         - appunto sulla lista il suo nome
-- prendo tutto ciò che mi serve
+- prendo tutto ciò che mi serve per fare la spesa
     - prendo il coupon
     - lo metto nel portafogli
     - metto il portafogli nella borsa
@@ -13,31 +13,32 @@
     - metto le chiavi della macchina in borsa
     - prendo la borsa
 - esco di casa
-    - prendo le chiavi
+    - prendo le chiavi di casa
     - apro la porta
     - esco 
     - chiudo la porta con la chiave
-    - metto la chiave in borsa 
+    - metto la chiave di casa in borsa 
 - vado al supermercato
+    - arrivo alla macchina
     - apro la macchina
     - salgo in macchina
     - chiudo la portiera
     - metto in moto
     - metto la cintura
     - vado al supermercato
-- prendo la roba sulla lista
+- prendo le cose segnate sulla lista
     - prendo il carrello
         - inserisco il gettone nel carrello
         - prendo il carrello
     - entro nel supermercato
     - controllo gli scaffali
-    - SE ho l'alimento che vedo
-        - non lo prendo
-    - ALTRIMENTI
+    - SE l'alimento che vedo è segnato sulla lista
         - lo metto nel carrello 
             - lo prendo dallo scaffale
             - lo metto nel carrelo
             - lo spunto dalla lista
+    - ALTRIMENTI
+        - scorro avanti tra gli scaffali
 - pago
     - vado alla cassa
     - metto la spesa sul rullo
@@ -92,3 +93,37 @@
         - prendiamo il mazzo dei doppioni
         - mettiamo i doppioni insieme agli altri
 - buttare la carta del pacchetto
+
+<!-- Esercizio 3 -->
+# 3. scegliere cosa guardare su netflix in base al sonno o al tempo che abbiamo 
+
+- accendere il computer
+    - premere il tasto di accensione
+    - SE l'accesso è protetto
+        - inserire password
+    - ALTRIMENTI
+        - aprire il browser
+- aprire netflix
+    - SE si ha l'app
+        - aprire l'app
+            - SE deve essere effettuato l'accesso
+                - inserire username
+                - inserire password
+                - cercare il film o la serie tv
+            - ALTRIMENTI
+                - cercare il film o la serie tv 
+    - ALTRIMENTI
+        - aprire il browser
+        - cercare "netflx"
+        - aprire netflix
+        - SE deve essere effettuato l'accesso
+            - inserire username
+            - inserire password
+            - cercare il film o la serie tv
+        - ALTRIMENTI
+            - cercare il film o la serie tv  
+- scegliere film o serie tv
+  - SE si ha sonno 
+    - scegliere una serie tv con episodi brevi
+  - ALTRIMENTI
+    - scegliere un film 
