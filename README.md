@@ -48,6 +48,13 @@
     - metto la spesa nel porta bagagli
     - porto il carrello al posto
     - prendo il gettone
+    - torno alla macchina
+    - apro la macchina
+    - salgo in macchina
+    - chiudo la portiera
+    - metto in moto
+    - metto la cintura
+    - vado a casa
 
 
 <!-- Esercizio in classe -->
