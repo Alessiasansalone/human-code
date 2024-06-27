@@ -1,3 +1,19 @@
+<!-- Esercizio 1 -->
+# 1. fare la spesa seguendo una lista, ricordandomi delle crocchette e del coupon
+
+- apro il frigo
+- appunto cosa manca
+    - PER OGNI cosa che manca dal frigo 
+        - appunto sulla lista il suo nome
+        - 
+- prendo il coupon
+- prendo la borsa 
+- chiudo la porta
+- vado al supermercato
+- prendo la roba sulla lista
+- pago
+- tono a casa
+
 
 <!-- Esercizio in classe -->
 # 2. aprire un pacchetto di figurine, attaccarle all'album e scartare le doppie in un mazzo a parte
