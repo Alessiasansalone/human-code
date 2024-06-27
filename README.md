@@ -5,14 +5,49 @@
 - appunto cosa manca
     - PER OGNI cosa che manca dal frigo 
         - appunto sulla lista il suo nome
-        - 
-- prendo il coupon
-- prendo la borsa 
-- chiudo la porta
+- prendo tutto ciò che mi serve
+    - prendo il coupon
+    - lo metto nel portafogli
+    - metto il portafogli nella borsa
+    - prendo le chiavi della macchina
+    - metto le chiavi della macchina in borsa
+    - prendo la borsa
+- esco di casa
+    - prendo le chiavi
+    - apro la porta
+    - esco 
+    - chiudo la porta con la chiave
+    - metto la chiave in borsa 
 - vado al supermercato
+    - apro la macchina
+    - salgo in macchina
+    - chiudo la portiera
+    - metto in moto
+    - metto la cintura
+    - vado al supermercato
 - prendo la roba sulla lista
+    - prendo il carrello
+        - inserisco il gettone nel carrello
+        - prendo il carrello
+    - entro nel supermercato
+    - controllo gli scaffali
+    - SE ho l'alimento che vedo
+        - non lo prendo
+    - ALTRIMENTI
+        - lo metto nel carrello 
+            - lo prendo dallo scaffale
+            - lo metto nel carrelo
+            - lo spunto dalla lista
 - pago
+    - vado alla cassa
+    - metto la spesa sul rullo
+    - pago la spesa totale
+    - imbusto la spesa
+    - esco dal supermercato
 - tono a casa
+    - metto la spesa nel porta bagagli
+    - porto il carrello al posto
+    - prendo il gettone
 
 
 <!-- Esercizio in classe -->
